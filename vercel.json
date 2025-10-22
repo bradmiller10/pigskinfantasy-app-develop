@@ -1,5 +1,5 @@
 {
   "buildCommand": "npm install -g expo-cli && npx expo export --platform web",
-  "outputDirectory": "dist",
+  "outputDirectory": "web-build",
   "framework": "create-react-app"
 }
